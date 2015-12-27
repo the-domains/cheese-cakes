@@ -1,0 +1,14 @@
+layout_spectrum: 0.0467274
+color:
+  saturation: 0.6621582
+  lightness: 0.009188223
+  brandStrength: 1
+  brandColors:
+    - '#C7DEF4'
+    - '#0C0402'
+    - '#9BA3B4'
+    - '#CF9142'
+    - '#03169A'
+  rhythmicContrast: 0.1373927
+typography_spectrum: 0.2021277
+name: Cheese Cakes
